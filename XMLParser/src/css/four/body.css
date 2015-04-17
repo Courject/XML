@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    margin:10px;
+}
+p[class="first"]{
+    display:block;
+    margin: 10mm 20mm 5mm 15mm;
+    background-color:yellow;
+}
+p[class="second"]{
+    margin: 1mm;
+    background-color:red;
+}

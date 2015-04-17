@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background: #eee;
+    font-family: Monaco,"Microsoft Yahei";
+    font-size: 0.7em;
+}
+.description{
+    width: 1000px;
+    height: auto;
+    padding: 20px 50px;
+    text-align: center;
+    margin: 40px auto;
+    border: 2px solid #aaa;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px #555;
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    cursor: pointer;
+}
+table{
+    margin: auto;
+    border-collapse: collapse;
+    background: #ffffff;
+    box-shadow: 0px 0px 20px #aaa;
+}
+th,td{
+    min-width: 3.5em;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 2px;
+    color: #333;
+}
+th{
+    background: #555;
+    color: #ffffff;
+    font-weight: normal;
+}
+tr:hover{
+    background: #eee;
+}
+tr.even {
+    background: #ccc;
+}

@@ -1,0 +1,526 @@
+<site>
+<people>
+<person id="person9">
+   <name>Mohamadou Castella--爱好丰富</name>
+   <emailaddress>mailto:Castella@rutgers.edu</emailaddress>
+   <address>
+      <street>73 Charatonik St</street>
+      <city>Dallas</city>
+      <country>Equatorial Guinea</country>
+      <province>Older</province>
+      <zipcode>22</zipcode>
+   </address>
+   <creditcard>7994 4376 7031 5817</creditcard>
+   <profile income="81344.83">
+      <interest category="category7"/>
+      <interest category="category7"/>
+      <interest category="category7"/>
+      <interest category="category6"/>
+      <interest category="category1"/>
+      <interest category="category8"/>
+      <interest category="category4"/>
+      <gender>male</gender>
+      <business>No</business>
+      <age>34</age>
+   </profile>
+   <watches>
+      <watch open_auction="open_auction37"/>
+   </watches>
+</person>
+<person id="person14">
+   <name>Jorjeta Shiratori--爱好丰富</name>
+   <emailaddress>mailto:Shiratori@uga.edu</emailaddress>
+   <phone>+0 (655) 24678079</phone>
+   <address>
+      <street>17 Magliveras St</street>
+      <city>Providenciales</city>
+      <country>United States</country>
+      <province>Utah</province>
+      <zipcode>38</zipcode>
+   </address>
+   <profile income="29926.01">
+      <interest category="category3"/>
+      <interest category="category0"/>
+      <interest category="category1"/>
+      <interest category="category6"/>
+      <interest category="category1"/>
+      <interest category="category2"/>
+      <interest category="category1"/>
+      <education>High School</education>
+      <business>No</business>
+   </profile>
+</person>
+<person id="person17">
+   <name>Corinne Luca--爱好丰富</name>
+   <emailaddress>mailto:Luca@sunysb.edu</emailaddress>
+   <address>
+      <street>97 Subramaniyam St</street>
+      <city>Lynchburg</city>
+      <country>United States</country>
+      <zipcode>6</zipcode>
+   </address>
+   <homepage>http://www.sunysb.edu/~Luca</homepage>
+   <profile income="39943.96">
+      <interest category="category3"/>
+      <interest category="category6"/>
+      <interest category="category8"/>
+      <interest category="category4"/>
+      <interest category="category2"/>
+      <interest category="category6"/>
+      <interest category="category6"/>
+      <interest category="category7"/>
+      <interest category="category0"/>
+      <interest category="category0"/>
+      <business>No</business>
+      <age>19</age>
+   </profile>
+   <watches>
+      <watch open_auction="open_auction80"/>
+   </watches>
+</person>
+<person id="person19">
+   <name>Taiji Schwantner--爱好丰富</name>
+   <emailaddress>mailto:Schwantner@clarkson.edu</emailaddress>
+   <phone>+0 (261) 24153396</phone>
+   <profile income="43682.83">
+      <interest category="category0"/>
+      <interest category="category4"/>
+      <interest category="category3"/>
+      <interest category="category7"/>
+      <interest category="category5"/>
+      <interest category="category5"/>
+      <business>Yes</business>
+   </profile>
+</person>
+<person id="person22">
+   <name>Raghubir Oppitz--爱好丰富</name>
+   <emailaddress>mailto:Oppitz@ogi.edu</emailaddress>
+   <phone>+0 (845) 43334270</phone>
+   <address>
+      <street>7 Bousson St</street>
+      <city>Milwaukee</city>
+      <country>United States</country>
+      <province>Kentucky</province>
+      <zipcode>25</zipcode>
+   </address>
+   <homepage>http://www.ogi.edu/~Oppitz</homepage>
+   <creditcard>5921 1590 1603 9955</creditcard>
+   <profile income="21880.69">
+      <interest category="category0"/>
+      <interest category="category8"/>
+      <interest category="category0"/>
+      <interest category="category6"/>
+      <interest category="category5"/>
+      <interest category="category6"/>
+      <interest category="category6"/>
+      <interest category="category0"/>
+      <education>College</education>
+      <business>No</business>
+   </profile>
+</person>
+<person id="person35">
+   <name>Mehrdad Foong--爱好丰富</name>
+   <emailaddress>mailto:Foong@uni-mannheim.de</emailaddress>
+   <phone>+0 (371) 81849900</phone>
+   <homepage>http://www.uni-mannheim.de/~Foong</homepage>
+   <profile income="28020.28">
+      <interest category="category0"/>
+      <interest category="category6"/>
+      <interest category="category1"/>
+      <interest category="category2"/>
+      <interest category="category6"/>
+      <interest category="category7"/>
+      <interest category="category4"/>
+      <interest category="category0"/>
+      <interest category="category2"/>
+      <interest category="category5"/>
+      <interest category="category5"/>
+      <interest category="category1"/>
+      <interest category="category2"/>
+      <interest category="category1"/>
+      <gender>male</gender>
+      <business>Yes</business>
+      <age>36</age>
+   </profile>
+</person>
+<person id="person42">
+   <name>Domenico Keustermans--爱好丰富</name>
+   <emailaddress>mailto:Keustermans@mit.edu</emailaddress>
+   <phone>+0 (631) 34322450</phone>
+   <homepage>http://www.mit.edu/~Keustermans</homepage>
+   <profile income="13860.61">
+      <interest category="category2"/>
+      <interest category="category8"/>
+      <interest category="category2"/>
+      <interest category="category2"/>
+      <interest category="category5"/>
+      <interest category="category4"/>
+      <interest category="category3"/>
+      <interest category="category1"/>
+      <gender>male</gender>
+      <business>Yes</business>
+      <age>38</age>
+   </profile>
+   <watches>
+      <watch open_auction="open_auction4"/>
+      <watch open_auction="open_auction112"/>
+      <watch open_auction="open_auction66"/>
+      <watch open_auction="open_auction103"/>
+      <watch open_auction="open_auction80"/>
+      <watch open_auction="open_auction98"/>
+      <watch open_auction="open_auction33"/>
+      <watch open_auction="open_auction77"/>
+      <watch open_auction="open_auction28"/>
+   </watches>
+</person>
+<person id="person53">
+   <name>Mehrdad Stancampiano--爱好丰富</name>
+   <emailaddress>mailto:Stancampiano@evergreen.edu</emailaddress>
+   <creditcard>3063 9347 6007 7491</creditcard>
+   <profile income="23707.26">
+      <interest category="category2"/>
+      <interest category="category4"/>
+      <interest category="category0"/>
+      <interest category="category3"/>
+      <interest category="category3"/>
+      <interest category="category5"/>
+      <business>Yes</business>
+      <age>35</age>
+   </profile>
+   <watches>
+      <watch open_auction="open_auction15"/>
+      <watch open_auction="open_auction80"/>
+      <watch open_auction="open_auction84"/>
+      <watch open_auction="open_auction5"/>
+      <watch open_auction="open_auction64"/>
+      <watch open_auction="open_auction102"/>
+      <watch open_auction="open_auction48"/>
+      <watch open_auction="open_auction113"/>
+      <watch open_auction="open_auction38"/>
+      <watch open_auction="open_auction24"/>
+      <watch open_auction="open_auction19"/>
+   </watches>
+</person>
+<person id="person69">
+   <name>Yishai Ermel--爱好丰富</name>
+   <emailaddress>mailto:Ermel@crossgain.com</emailaddress>
+   <homepage>http://www.crossgain.com/~Ermel</homepage>
+   <creditcard>4909 2988 5428 6199</creditcard>
+   <profile income="78647.91">
+      <interest category="category0"/>
+      <interest category="category2"/>
+      <interest category="category0"/>
+      <interest category="category6"/>
+      <interest category="category6"/>
+      <interest category="category0"/>
+      <interest category="category5"/>
+      <interest category="category8"/>
+      <education>College</education>
+      <gender>male</gender>
+      <business>No</business>
+      <age>46</age>
+   </profile>
+   <watches>
+</watches>
+</person>
+<person id="person95">
+   <name>Shichao Iwayama--爱好丰富</name>
+   <emailaddress>mailto:Iwayama@cas.cz</emailaddress>
+   <phone>+100 (700) 93218861</phone>
+   <profile income="18803.58">
+      <interest category="category2"/>
+      <interest category="category1"/>
+      <interest category="category6"/>
+      <interest category="category2"/>
+      <interest category="category1"/>
+      <interest category="category4"/>
+      <interest category="category8"/>
+      <gender>female</gender>
+      <business>No</business>
+   </profile>
+   <watches>
+</watches>
+</person>
+<person id="person114">
+   <name>Kristo Baezner--爱好丰富</name>
+   <emailaddress>mailto:Baezner@smu.edu</emailaddress>
+   <phone>+0 (488) 91824451</phone>
+   <address>
+      <street>27 Dulay St</street>
+      <city>Hermosillo</city>
+      <country>United States</country>
+      <zipcode>27</zipcode>
+   </address>
+   <profile income="87821.29">
+      <interest category="category1"/>
+      <interest category="category1"/>
+      <interest category="category6"/>
+      <interest category="category6"/>
+      <interest category="category6"/>
+      <interest category="category4"/>
+      <interest category="category8"/>
+      <interest category="category5"/>
+      <interest category="category6"/>
+      <interest category="category7"/>
+      <education>Other</education>
+      <gender>male</gender>
+      <business>Yes</business>
+   </profile>
+</person>
+<person id="person124">
+   <name>LiMin Brazell--爱好丰富</name>
+   <emailaddress>mailto:Brazell@rutgers.edu</emailaddress>
+   <phone>+211 (778) 46393007</phone>
+   <address>
+      <street>75 Docter St</street>
+      <city>Oakland</city>
+      <country>Philippines</country>
+      <province>McCallien</province>
+      <zipcode>34</zipcode>
+   </address>
+   <homepage>http://www.rutgers.edu/~Brazell</homepage>
+   <creditcard>3548 6441 4861 5129</creditcard>
+   <profile income="39044.60">
+      <interest category="category4"/>
+      <interest category="category7"/>
+      <interest category="category8"/>
+      <interest category="category4"/>
+      <interest category="category0"/>
+      <interest category="category3"/>
+      <interest category="category8"/>
+      <interest category="category8"/>
+      <interest category="category6"/>
+      <interest category="category3"/>
+      <education>Graduate School</education>
+      <business>No</business>
+   </profile>
+</person>
+<person id="person141">
+   <name>Mountaz Kushnir--爱好丰富</name>
+   <emailaddress>mailto:Kushnir@broadquest.com</emailaddress>
+   <address>
+      <street>24 Ricarte St</street>
+      <city>Johannesburg</city>
+      <country>Czech Republic</country>
+      <province>Cudia</province>
+      <zipcode>39</zipcode>
+   </address>
+   <homepage>http://www.broadquest.com/~Kushnir</homepage>
+   <profile income="43018.12">
+      <interest category="category8"/>
+      <interest category="category8"/>
+      <interest category="category7"/>
+      <interest category="category2"/>
+      <interest category="category2"/>
+      <interest category="category3"/>
+      <gender>female</gender>
+      <business>Yes</business>
+      <age>18</age>
+   </profile>
+   <watches>
+      <watch open_auction="open_auction33"/>
+      <watch open_auction="open_auction17"/>
+      <watch open_auction="open_auction73"/>
+      <watch open_auction="open_auction31"/>
+      <watch open_auction="open_auction87"/>
+      <watch open_auction="open_auction61"/>
+      <watch open_auction="open_auction105"/>
+   </watches>
+</person>
+<person id="person153">
+   <name>Karabi Morvan--爱好丰富</name>
+   <emailaddress>mailto:Morvan@newpaltz.edu</emailaddress>
+   <creditcard>8859 6756 6315 5889</creditcard>
+   <profile income="66909.24">
+      <interest category="category4"/>
+      <interest category="category6"/>
+      <interest category="category8"/>
+      <interest category="category1"/>
+      <interest category="category0"/>
+      <interest category="category0"/>
+      <interest category="category4"/>
+      <interest category="category5"/>
+      <education>College</education>
+      <business>No</business>
+      <age>28</age>
+   </profile>
+</person>
+<person id="person160">
+   <name>Noriyoshi Gavrin--爱好丰富</name>
+   <emailaddress>mailto:Gavrin@uwindsor.ca</emailaddress>
+   <phone>+0 (313) 35193598</phone>
+   <address>
+      <street>73 Beauvieux St</street>
+      <city>Beaumont</city>
+      <country>United States</country>
+      <province>Oklahoma</province>
+      <zipcode>19</zipcode>
+   </address>
+   <homepage>http://www.uwindsor.ca/~Gavrin</homepage>
+   <creditcard>5155 4606 2383 7468</creditcard>
+   <profile income="9876.00">
+      <interest category="category0"/>
+      <interest category="category3"/>
+      <interest category="category3"/>
+      <interest category="category4"/>
+      <interest category="category6"/>
+      <interest category="category7"/>
+      <interest category="category7"/>
+      <interest category="category4"/>
+      <interest category="category2"/>
+      <interest category="category2"/>
+      <interest category="category6"/>
+      <interest category="category0"/>
+      <interest category="category0"/>
+      <business>No</business>
+   </profile>
+</person>
+<person id="person171">
+   <name>Ziyad Mancoridis--爱好丰富</name>
+   <emailaddress>mailto:Mancoridis@propel.com</emailaddress>
+   <creditcard>3703 7591 2042 6358</creditcard>
+   <profile income="31582.24">
+      <interest category="category6"/>
+      <interest category="category7"/>
+      <interest category="category3"/>
+      <interest category="category2"/>
+      <interest category="category7"/>
+      <interest category="category2"/>
+      <interest category="category3"/>
+      <business>No</business>
+      <age>34</age>
+   </profile>
+</person>
+<person id="person174">
+   <name>Rupak Brundage--爱好丰富</name>
+   <emailaddress>mailto:Brundage@ac.jp</emailaddress>
+   <creditcard>4557 4491 4049 5268</creditcard>
+   <profile income="52501.62">
+      <interest category="category7"/>
+      <interest category="category5"/>
+      <interest category="category4"/>
+      <interest category="category2"/>
+      <interest category="category0"/>
+      <interest category="category1"/>
+      <education>Graduate School</education>
+      <gender>male</gender>
+      <business>Yes</business>
+   </profile>
+</person>
+<person id="person188">
+   <name>Vatsa Weaver--爱好丰富</name>
+   <emailaddress>mailto:Weaver@tue.nl</emailaddress>
+   <phone>+0 (905) 1168531</phone>
+   <address>
+      <street>81 Tague St</street>
+      <city>Lubbock</city>
+      <country>United States</country>
+      <province>Vermont</province>
+      <zipcode>19</zipcode>
+   </address>
+   <creditcard>8861 4882 2325 8729</creditcard>
+   <profile income="49377.16">
+      <interest category="category3"/>
+      <interest category="category5"/>
+      <interest category="category7"/>
+      <interest category="category4"/>
+      <interest category="category4"/>
+      <interest category="category1"/>
+      <interest category="category3"/>
+      <interest category="category0"/>
+      <interest category="category1"/>
+      <gender>female</gender>
+      <business>No</business>
+   </profile>
+</person>
+<person id="person235">
+   <name>Kevin Norrish--爱好丰富</name>
+   <emailaddress>mailto:Norrish@airmail.net</emailaddress>
+   <phone>+0 (92) 80374042</phone>
+   <address>
+      <street>64 Meyke St</street>
+      <city>Nashville</city>
+      <country>St. Vincent and Grenadines</country>
+      <zipcode>10</zipcode>
+   </address>
+   <creditcard>5821 1584 3395 4744</creditcard>
+   <profile income="9876.00">
+      <interest category="category4"/>
+      <interest category="category8"/>
+      <interest category="category2"/>
+      <interest category="category5"/>
+      <interest category="category4"/>
+      <interest category="category8"/>
+      <interest category="category6"/>
+      <gender>male</gender>
+      <business>Yes</business>
+      <age>28</age>
+   </profile>
+</person>
+<person id="person236">
+   <name>Lakshmi Lichtner--爱好丰富</name>
+   <emailaddress>mailto:Lichtner@cas.cz</emailaddress>
+   <address>
+      <street>79 Rayside St</street>
+      <city>St</city>
+      <country>United States</country>
+      <province>South Carolina</province>
+      <zipcode>13</zipcode>
+   </address>
+   <creditcard>4416 3576 6756 9498</creditcard>
+   <profile income="56522.17">
+      <interest category="category0"/>
+      <interest category="category1"/>
+      <interest category="category7"/>
+      <interest category="category0"/>
+      <interest category="category6"/>
+      <interest category="category6"/>
+      <interest category="category8"/>
+      <business>Yes</business>
+      <age>31</age>
+   </profile>
+   <watches>
+      <watch open_auction="open_auction22"/>
+   </watches>
+</person>
+<person id="person246">
+   <name>Arun Sambasivam--爱好丰富</name>
+   <emailaddress>mailto:Sambasivam@zambeel.com</emailaddress>
+   <phone>+0 (23) 76059021</phone>
+   <profile income="76228.63">
+      <interest category="category3"/>
+      <interest category="category2"/>
+      <interest category="category0"/>
+      <interest category="category3"/>
+      <interest category="category8"/>
+      <interest category="category6"/>
+      <business>Yes</business>
+      <age>18</age>
+   </profile>
+   <watches>
+      <watch open_auction="open_auction100"/>
+   </watches>
+</person>
+<person id="person254">
+   <name>Wayne Routh--爱好丰富</name>
+   <emailaddress>mailto:Routh@monmouth.edu</emailaddress>
+   <address>
+      <street>62 Phua St</street>
+      <city>Wilmington</city>
+      <country>Albania</country>
+      <zipcode>25</zipcode>
+   </address>
+   <profile income="63047.93">
+      <interest category="category3"/>
+      <interest category="category5"/>
+      <interest category="category8"/>
+      <interest category="category4"/>
+      <interest category="category3"/>
+      <interest category="category3"/>
+      <interest category="category6"/>
+      <education>College</education>
+      <business>No</business>
+   </profile>
+</person>
+</people>
+</site>
